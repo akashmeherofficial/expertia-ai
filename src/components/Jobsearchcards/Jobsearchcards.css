@@ -1,0 +1,22 @@
+.j-card{
+    display: flex;
+    flex-direction: column;
+    margin: 2.5em;
+    padding: 3em;
+}
+
+.j-card h3{
+    font-size: 2.2em;
+    margin: 1.5em;
+    text-align:left;
+    
+}
+
+.j-card p{
+    font-size: 1.3em;
+    font-weight: lighter;
+    margin: 1em;
+    text-align: justify;
+
+}
+

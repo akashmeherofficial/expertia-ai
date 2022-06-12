@@ -1,0 +1,72 @@
+*{
+    viewport-fit: auto;
+
+}
+
+
+.left-gs h1{
+    letter-spacing: 0.1px;
+    font-size: 4em;
+
+
+}
+.left-gs p{
+    letter-spacing: 0.1px;
+    font-size: 1.5em;
+    
+
+}
+
+.left-gs{
+    text-align:start;
+    text-transform: 3em;
+    margin:3em 10em ;
+    /* padding: 3em; */
+    
+}
+
+.right-gs{
+    
+    margin:3em 10em;
+    /* padding: 3em; */
+
+}
+
+
+.embed{
+    border: 2px solid slateblue;
+    border-radius: 1em;
+    width: 500px;
+    height: 280px;
+    
+}
+.section{
+    display: flex;
+    align-items: center;
+    width: fit;
+
+    
+}
+
+
+
+
+
+.gs-btn{
+    background-color: slateblue;
+    color:white;
+    border:2px solid white;
+    border-radius: 3em;
+    padding:0.7em 4em;
+    height: auto;
+    font-size: 1.5em;
+    margin:2em 0;
+    
+}
+.gs-btn:hover{
+    background-color: white;
+    color:slateblue;
+    border:1px solid slateblue;
+    transition: 0.3s;
+    cursor: pointer;
+}

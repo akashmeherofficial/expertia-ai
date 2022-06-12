@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+    padding: 3em;
+}
+
+
+li{
+    list-style: none;
+    font-size: 1.5em;
+    color: darkgray;
+}
+
+.footer div{
+    margin: 3em;
+    padding: 3em;
+}
+

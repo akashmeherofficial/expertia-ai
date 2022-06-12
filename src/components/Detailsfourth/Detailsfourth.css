@@ -1,0 +1,24 @@
+.section2{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 2fr 5fr;
+    margin: 3em;
+}
+
+.imgone{
+
+    width:45vw;
+    height: auto;
+
+}
+
+.left-df{
+    margin-left: 3em;
+}
+
+.right-df{
+    margin: 1em;
+    padding: 1em;
+    
+}
+

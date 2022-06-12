@@ -1,0 +1,61 @@
+
+body{
+    background-color: rgba(130, 118, 204, 0.116);
+    height: 100vh
+}
+.getstartedbox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin:2em 8em 2em 8em;
+    padding: 3em;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.getstartedbox:hover{
+    border: 1px solid slateblue;
+}
+
+
+
+.apply-bttn{
+    background-color:yellowgreen !important;
+    color:white;
+    border:2px solid white;
+    border-radius: 3em;
+    padding:0.7em 4em;
+    height: auto;
+    font-size: 1.2em;
+
+}
+.hire-btn{
+    background-color: slateblue;
+    color:white;
+    border:2px solid white;
+    border-radius: 3em;
+    padding:0.7em 4em;
+    height: auto;
+    font-size: 1.2em;
+    margin:2em 0;
+    
+}
+.hire-btn:hover{
+    background-color: white;
+    color:slateblue;
+    border:1px solid slateblue;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.apply-bttn:hover{
+    background-color: white !important;
+    color:yellowgreen;
+    border:1px solid yellowgreen;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.getstartedbox p{
+    margin: 2em;
+    color: slateblue;
+}
